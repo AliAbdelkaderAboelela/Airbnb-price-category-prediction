@@ -1,0 +1,2 @@
+# Airbnb-price-category-prediction
+This project focuses on predicting Airbnb price categories and property types using a multi-modality and multi-task learning approach. The model combines textual information and images as inputs and aims to predict two distinct outputs: price category and property type. We utilize neural network architectures, including GRU (Gated Recurrent Unit) and LSTM (Long Short-Term Memory), to capture the sequential nature of textual data and extract features from images.
